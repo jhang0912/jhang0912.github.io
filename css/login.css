@@ -19,6 +19,17 @@
   height:60%;
   background-color: white;
 }
+@media (max-width:576px){
+  #Login .con{
+    width: 300px;
+  }
+}
+@media (max-width:384px){
+  #Login .con{
+    width: 300px;
+    height: 80%;
+  }
+}
 #Login .title{
   font-family: 'Cinzel', serif;
   background-color: #141b2e;
@@ -41,6 +52,7 @@
 }
 #Login .form-control{
   font-size:1rem ;
+  font-family: 'Kanit', sans-serif;
 }
 #Login input{
   border: 1px solid #141b2e;
@@ -53,4 +65,5 @@
   color: #e0b271;
   background-color: #141b2e;
 }
+
 

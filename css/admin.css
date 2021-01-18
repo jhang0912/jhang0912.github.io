@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(240, 240, 240);
+}
+
+#Content .con{
+  background-color: white;
+  margin:0 auto;
+}
+.start{
+  border-radius: 0.25rem 0 0 0;
+}
+.end{
+  border-radius: 0 0.25rem 0 0;
+}
+
